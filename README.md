@@ -24,7 +24,9 @@
 ## Ответ на задание
 1.  [Ссылка на конфигурацию Ansible и README.md](https://github.com/VN351/ans-hw-2-code/tree/master)
 2.  ![alt text](https://github.com/VN351/ans-hw-02/raw/main/images/task-1-1.png)
-
+3.  ![alt text](https://github.com/VN351/ans-hw-02/raw/main/images/task-1-2.png)
+4.  ![alt text](https://github.com/VN351/ans-hw-02/raw/main/images/task-1-3.png)
+5.  ![alt text](https://github.com/VN351/ans-hw-02/raw/main/images/task-1-4.png)
 ### Как оформить решение задания
 
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
