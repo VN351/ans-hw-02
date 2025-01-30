@@ -23,7 +23,7 @@
 ---
 ## Ответ на задание
 1.  [Ссылка на конфигурацию Ansible и README.md](https://github.com/VN351/ans-hw-2-code/tree/master)
-2.  ![alt text](https://github.com/VN351/ans-hw-2-code/raw/main/images/task-1-1.png)
+2.  ![alt text](https://github.com/VN351/ans-hw-02/raw/main/images/task-1-1.png)
 
 ### Как оформить решение задания
 
